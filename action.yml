@@ -1,6 +1,6 @@
-name: Rebase Upstream
+name: Rebase-upstream-shubh
 description: Use git rebase to sync with upstream
-author: imba-tjd
+author: imshubh69
 branding:
   icon: git-pull-request
   color: green
